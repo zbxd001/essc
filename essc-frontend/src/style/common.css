@@ -1,0 +1,19 @@
+/* 调试专用 */
+* {
+    /* outline: solid 1px #000;     */
+    box-sizing: border-box;
+}
+body {
+    /* font-family: "Yuanti SC", Youyuan, "You Yuan", 幼圆, "PingFang SC",
+    "Microsoft Yahei", Helvetica, sans-serif; */
+    background-color: #F1F1F1;
+}
+
+:root {
+    /* --primary-color:#2bcbba; */
+    --primary-color:#16a085;
+}
+.form1 .el-form-item__label{
+    color: #F1F1F1;
+}
+
